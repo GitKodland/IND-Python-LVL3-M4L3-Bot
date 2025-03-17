@@ -1,0 +1,51 @@
+Apa ibu kota Samoa?
+Apia
+
+Berapa jumlah benua yang ada di Database?
+6
+
+Apa nama kolom yang bertanggung jawab untuk area?
+area
+
+Nilai kunci apa yang menghubungkan tabel negara dengan informasi tentangnya?
+country_id
+
+Temukan negara terkecil berdasarkan luas wilayah
+Vatican City
+
+---
+
+Negara mana yang memiliki kepadatan penduduk tertinggi?
+Monaco
+
+Di benua mana negara dengan ibu kota Basseterre berada?
+North America
+
+Berapa banyak negara yang ada di Afrika?
+53
+
+Apa ibu kota negara dengan populasi 1500001?
+Manama
+
+Negara mana yang paling padat penduduknya di antara negara-negara dengan populasi lebih dari 10 juta dan luas kurang dari 8 juta kilometer persegi?
+Bangladesh
+
+Berapa banyak negara yang memiliki ibu kota yang dimulai dengan huruf B?
+25
+
+---
+
+Benua mana yang memiliki rata-rata kepadatan penduduk terendah?
+South America
+
+Berapa total luas semua negara di Australia dan Oceania?
+8490640.4
+
+Dalam tabel info, ada beberapa negara yang persentase populasinya terhadap populasi Bumi adalah nol. Tentukan negara mana di antara negara-negara tersebut yang memiliki nama ibu kota terpanjang, dan masukkan populasi negara tersebut sebagai jawaban.
+81588
+
+Negara mana yang namanya berakhir dengan 'ia', terletak di Oceania, dan memiliki populasi terkecil?
+Микронезия
+
+Tentukan rata-rata populasi dari 10 negara pertama di Eropa, yang diurutkan berdasarkan kepadatan penduduk (secara ascending). Masukkan bilangan bulat sebagai jawaban.
+17045185
