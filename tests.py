@@ -9,10 +9,10 @@ def check_answer(player: Player, answer):
                 player.opened_parts.append(player.hidden_parts[0].pop(0))
                 if not player.hidden_parts[0]:
                     player.hidden_parts.pop(0)
-                print("Benar")
+                print("correct")
 
             else:
-                print("Salah")
+                print("incorrect")
 
             if not player.questions[0]:
                 print("Susun kembali kalimat dari fragmen yang terkumpul")
@@ -22,17 +22,17 @@ def check_answer(player: Player, answer):
                 player.opened_words.append(player.hidden_words.pop(0))
                 player.questions.pop(0)
                 player.opened_parts.clear()
-                print("Benar")
+                print("correct")
 
             else:
-                print("Salah")
+                print("incorrect")
 
         if player.questions[0]:
             print(player.opened_parts)
             print(player.questions[0][0][0])
             print(player.questions[0][0][1])
     else:
-        print("Selesai")
+        print("The end")
 
 
 p = Player(1, 1, 1)
