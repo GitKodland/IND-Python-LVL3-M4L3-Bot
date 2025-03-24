@@ -11,15 +11,15 @@ Nilai kunci apa yang menghubungkan tabel negara dengan informasi tentangnya?
 country_id
 
 Temukan negara terkecil berdasarkan luas wilayah
-Vatican City
+Kota Vatikan
 
 ---
 
 Negara mana yang memiliki kepadatan penduduk tertinggi?
-Monaco
+Monako
 
 Di benua mana negara dengan ibu kota Basseterre berada?
-North America
+Amerika Utara
 
 Berapa banyak negara yang ada di Afrika?
 53
@@ -36,16 +36,16 @@ Berapa banyak negara yang memiliki ibu kota yang dimulai dengan huruf B?
 ---
 
 Benua mana yang memiliki rata-rata kepadatan penduduk terendah?
-South America
+Amerika Selatan
 
-Berapa total luas semua negara di Australia dan Oceania?
+Berapa total luas semua negara di Australia dan Oseania?
 8490640.4
 
 Dalam tabel info, ada beberapa negara yang persentase populasinya terhadap populasi Bumi adalah nol. Tentukan negara mana di antara negara-negara tersebut yang memiliki nama ibu kota terpanjang, dan masukkan populasi negara tersebut sebagai jawaban.
 81588
 
-Negara mana yang namanya berakhir dengan 'ia', terletak di Oceania, dan memiliki populasi terkecil?
-Микронезия
+Negara mana yang namanya berakhir dengan 'ia', terletak di Oseania, dan memiliki populasi terkecil?
+Mikronesia
 
 Tentukan rata-rata populasi dari 10 negara pertama di Eropa, yang diurutkan berdasarkan kepadatan penduduk (secara ascending). Masukkan bilangan bulat sebagai jawaban.
 17045185
